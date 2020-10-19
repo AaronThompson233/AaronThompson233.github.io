@@ -7,12 +7,16 @@ body{
     display:flex;
     padding:10px;
     margin:10px;
+    margin-bottom: 30px;
     background:#8B0000;
+    border-radius: 5px;
+    box-shadow: 5px 10px lightsalmon;
 }
 .assignment img{
     width:200px;
     border: 2px solid #00BFFF;
     margin-right: 20px;
+    border-radius: 5px;
 }
 h1{
     color: lightsalmon;
@@ -21,4 +25,7 @@ h1{
 a {
     text-decoration: none;
     color: #FFA500;
+}
+.assignment a:hover{
+    color:lightsalmon;
 }
