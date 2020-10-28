@@ -18,6 +18,7 @@ body{
 }
 .assignment img{
     width:200px;
+    height:200px;
     border: 2px solid #00BFFF;
     margin-right: 20px;
     border-radius: 5px;
